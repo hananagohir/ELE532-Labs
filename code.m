@@ -219,7 +219,7 @@ tok;
 %Elapsed time is 0.196322 seconds. FASTER
 
 
-%Problem D.3-----------------------------------------------------
+%Problem D.3---------------------------------------------------------------------
 
 compressed_audio = x_audio; % Creates a copy of the original audio data to work on
 
